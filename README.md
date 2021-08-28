@@ -1,4 +1,2 @@
 # Py
 Demo choi choi
-
-//
